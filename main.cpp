@@ -1,8 +1,8 @@
 /***************************************************************************************
 Programmer's name: Jiwoo Kim
-Class: CptS 122 Summer 2021
+Class: CptS 122 Spring 2021
 (BONUS Assignment) Programming Assignment 7: Attendance Tracker w/ class Templates
-Date: 07/22/21
+Date: 04/22/21
 Descrition: https://eecs.wsu.edu/~aofallon/cpts122/progassignments/PA7.htm
 *****************************************************************************************/
 
